@@ -1,9 +1,6 @@
 # hls-co-design-for-Xcelerators
 A placeholder for the source code of a paper to be published in the future.
 
-Paper Abstract:
-Lattice-based cryptography (LBC) is an important direction...
-
 Status:
 This work is currently under review for publication. The full paper will be linked here upon acceptance.
 
